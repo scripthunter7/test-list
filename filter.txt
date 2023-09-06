@@ -1,0 +1,4 @@
+[Adblock Plus 3.1]
+! Title: test filter list
+
+example.com#$#log aaa bbb
