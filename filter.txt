@@ -3,3 +3,4 @@
 
 example.com#$#log aaa bbb
 example.com#?#p:-abp-contains(This domain is for use)
+/xgemius.js^$script,3p,domain=index.hu
